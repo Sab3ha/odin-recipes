@@ -1,5 +1,5 @@
 # Project: Recipes
-What I gained:
+What I gained from doing this project:
 <ul>
     <li>Better understanding of git command usage</li>
     <li>Experience resizing images in html</li>
